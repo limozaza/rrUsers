@@ -24,4 +24,7 @@ npm install
 
 npm start
   
+ ### Editeur de code
  
+ J'utilise personnellemnt Visual Code (léger  et riche en plugin et snippet  pour React et Redux)
+ https://code.visualstudio.com/
