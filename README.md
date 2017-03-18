@@ -5,10 +5,10 @@
 ### Clonez ou téléchargez les sources
 
 Si vous possedez GIT
-git clone https://github.com/Thikondrius/ReactRedux-Starter
+git clone https://github.com/RobinLebhar/ReactRedux-Starter
 
 Sinon téléchargez le zip de ce github 
-https://github.com/Thikondrius/ReactRedux-Starter/archive/master.zip
+https://github.com/RobinLebhar/ReactRedux-Starter/archive/master.zip
 
 ### NodeJS
 
