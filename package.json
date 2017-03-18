@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thikondrius/ReactRedux-Starter.git"
+    "url": "git+https://github.com/RobinLebhar/ReactRedux-Starter.git"
   },
   "author": "Robin Lebhar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thikondrius/ReactRedux-Starter/issues"
+    "url": "https://github.com/RobinLebhar/ReactRedux-Starter/issues"
   },
   "homepage": "https://github.com/Thikondrius/ReactRedux-Starter#readme"
 }
