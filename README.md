@@ -19,10 +19,11 @@ Téléchargez et installez NodeJS (la version recommendée) : https://nodejs.org
 ### NPM (Node Package Manager)
 
 Il s'agit du gestion de paquet de NodeJS ,exécutez à la racine de votre projet les commandes suivantes 
-
+```
 npm install
 
 npm start
+```
   
  ### Editeur de code
  
