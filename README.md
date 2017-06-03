@@ -5,7 +5,9 @@
 ### Clonez ou téléchargez les sources
 
 Si vous possedez GIT
+```
 git clone https://github.com/RobinLebhar/ReactRedux-Starter
+```
 
 Sinon téléchargez le zip de ce github 
 https://github.com/RobinLebhar/ReactRedux-Starter/archive/master.zip
