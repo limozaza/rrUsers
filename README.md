@@ -1,27 +1,29 @@
-# ReduxSimpleStarter
+# ReactRedux-Starter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+##  Installation 
 
-###Getting Started###
+### Clonez ou téléchargez les sources
 
-There are two methods for getting started with this repo.
+Si vous possedez GIT
+git clone https://github.com/RobinLebhar/ReactRedux-Starter
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Sinon téléchargez le zip de ce github 
+https://github.com/RobinLebhar/ReactRedux-Starter/archive/master.zip
 
+
+### NODE JS (Environnement)
+
+https://nodejs.org/en/
+
+### NPM (Node Package Manager)
+
+Il s'agit du gestion de paquet de NodeJS ,exécutez à la racine de votre projet les commandes suivantes 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
+npm install
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
+npm start
 ```
-	> npm install
-	> npm start
-```
-# ReactReduxPosts
-# ReactReduxPosts
+ ### Editeur de code
+ 
+ J'utilise personnellemNnt Visual Code (léger  et riche en plugin et snippet  pour React et Redux)
+ https://code.visualstudio.com/
